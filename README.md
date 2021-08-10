@@ -12,9 +12,14 @@ Análise simples, feita utilizando Python e as bibliotecas Pandas, Matplotlib e 
 Técnico em Mecatrônica, Estudante de Engenharia da Computação. Resolvendo problemas da vida real com técnicas computacionais.
 
 
-**Links:**
+**Outros artigos:**
+* Outliers em Data Science - https://medium.com/@hpaesdesouza/data-science-outliers-425d46476328
+
+**Contatos:**
 * [LinkedIn](www.linkedin.com/in/henriquepaes1)
 * [Medium](https://medium.com/@hpaesdesouza)
+
+
 
 
 
